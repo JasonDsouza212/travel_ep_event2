@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "school-management-system-main",
+			"path": "..\\school-management-system-main"
+		},
+		{
+			"name": "travel website",
+			"path": "..\\travel website"
+		},
+		{
+			"name": "dummy-Stock-mart-wp-event1--main",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "school-management-system-main"
+	}
+}
